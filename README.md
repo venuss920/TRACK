@@ -1,4 +1,7 @@
 # TRACK, ONGOING/VOLUNTARY BASED PROJECT AND LEARNING.
+
+This Project covers the widespan of steps as follows:
+
 1. The Project is based on the Behavioral cloning, generating the datas from the Udacity-Self driving Car Simulator(Open Source)
 2. Analysis of the csv file using pandas library, with the particular feauture selection. - Steering angle.
 3. Image Preprocessing - a. image pixels's normalisation.
